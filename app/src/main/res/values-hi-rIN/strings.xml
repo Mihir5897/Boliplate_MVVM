@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boliplate-MVVM</string>
+    <string name="empty_firstname">कृपया पहला नाम दर्ज करें</string>
+    <string name="valid_firstname">कृपया मान्य प्रथम नाम दर्ज करें</string>
+    <string name="special_characters_not_allowed">विशेष वर्णों की अनुमति नहीं है</string>
+    <string name="first_name_length_small">प्रथम नाम में कम से कम 3 अक्षर होने चाहिए</string>
+    <string name="last_name_length_small">उपनाम में कम से कम 3 अक्षर होने चाहिए</string>
+    <string name="firstname_title">पहला नाम*</string>
+    <string name="firstname_hint">यहां पहला नाम दर्ज करें</string>
+    <string name="empty_lastname">कृपया अंतिम नाम दर्ज करें</string>
+    <string name="valid_lastname">कृपया मान्य अंतिम नाम दर्ज करें</string>
+    <string name="lastname_title">अंतिम नाम*</string>
+    <string name="lastname_hint">अंतिम नाम यहां दर्ज करें</string>
+    <string name="empty_email_address">कृपया ईमेल पता दर्ज करें</string>
+    <string name="valid_email_address">कृपया सही ईमेल पता दें</string>
+    <string name="email_hint">यहां ईमेल आईडी दर्ज करें</string>
+    <string name="email_address_title">ईमेल आईडी*</string>
+    <string name="empty_phone_number">कृपया फ़ोन नंबर दर्ज करें</string>
+    <string name="valid_phone_number">कृपया मान्य संख्या दर्ज करें</string>
+    <string name="empty_country_code">कृपया देश कोड चुनें</string>
+    <string name="phone_no_title">फ़ोन नंबर*</string>
+    <string name="phone_no_hint">अपना दूरभाष क्रमांक दर्ज करें</string>
+    <string name="phone_no">फ़ोन नंबर</string>
+    <string name="already_have_an_account">पहले से ही एक खाता है?</string>
+    <string name="create_an_account">खाता बनाएं?</string>
+    <string name="create_an_account_title">खाता बनाएं</string>
+    <string name="please_wait">कृपया प्रतीक्षा करें</string>
+    <string name="no_internet_error_msg">कृपया अपने इंटरनेट कनेक्शन की जाँच करें</string>
+
+    <string name="please_register">कृपया दर्ज करें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="don_have_a_account">खाता नहीं है</string>
+    <string name="password">कुंजिका</string>
+    <string name="language">भाषा</string>
+</resources>

@@ -1,0 +1,90 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BoliplateMVVM" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="PrimaryButtonTheme">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/purple_200</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="cornerRadius">5dp</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="boxStrokeColor">#000000</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">1dp</item>
+        <item name="hintEnabled">false</item>
+        <item name="hintAnimationEnabled">false</item>
+        <item name="helperTextTextAppearance">@style/TextInputLayoutHelperText</item>
+        <item name="errorTextAppearance">@style/TextInputLayoutErrorText</item>
+
+        <item name="errorIconDrawable">@drawable/ic_end_error</item>
+        <item name="endIconMode">clear_text</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="android:imeOptions">actionDone</item>
+    </style>
+
+    <style name="TextInputLayoutHelperText" parent="TextAppearance.Design.HelperText">
+
+    </style>
+
+    <style name="TextInputLayoutErrorText" parent="TextAppearance.Design.Error">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextInputEditTextStyle">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">#020334</item>
+        <item name="hintTextColor">#B4B4C3</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:maxLength">100</item>
+        <item name="android:imeOptions">actionGo</item>
+        <item name="android:inputType">text</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <!--                <item name="android:background">@drawable/et_border</item>-->
+        <!--        <item name="background">@null</item>-->
+    </style>
+    <style name="TextInputLayoutHeading">
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#020334</item>
+
+    </style>
+    <style name="OnBoardingHeadingTheme">
+        <item name="android:textSize">28sp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">#020334</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginTop">25dp</item>
+    </style>
+</resources>

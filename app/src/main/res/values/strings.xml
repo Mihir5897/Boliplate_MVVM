@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Boliplate-MVVM</string>
+    <string name="default_notification_channel_id" translatable="false">Channel ID</string>
+    <string name="empty_firstname">Please enter first name</string>
+    <string name="valid_firstname">Please enter valid first name</string>
+    <string name="special_characters_not_allowed">Special characters are not allowed</string>
+    <string name="first_name_length_small">First name must contain atleast 3 characters</string>
+    <string name="last_name_length_small">Last name must contain atleast 3 characters</string>
+    <string name="firstname_title">First Name*</string>
+    <string name="firstname_hint">Enter First Name Here</string>
+    <string name="empty_lastname">Please enter last name</string>
+    <string name="valid_lastname">Please enter valid last name</string>
+    <string name="lastname_title">Last Name*</string>
+    <string name="lastname_hint">Enter Last Name Here</string>
+    <string name="empty_email_address">Please enter email address</string>
+    <string name="valid_email_address">Please enter valid email address</string>
+    <string name="email_hint">Enter Email ID Here</string>
+    <string name="email_address_title">Email ID*</string>
+    <string name="empty_phone_number">Please enter phone number</string>
+    <string name="valid_phone_number">Please enter valid number</string>
+    <string name="empty_country_code">Please select country code</string>
+    <string name="phone_no_title">Phone Number*</string>
+    <string name="phone_no_hint">Enter Your Phone Number</string>
+    <string name="phone_no">Phone number</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="create_an_account">Create an account?</string>
+    <string name="create_an_account_title">Create an Account</string>
+    <string name="please_wait">Please wait</string>
+    <string name="no_internet_error_msg">Please check your internet connection</string>
+
+<string name="please_register">Please Register</string>
+//facebooklogin
+    <string name="facebook_app_id" translatable="false">497883351733447</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb497883351733447</string>
+    <string name="facebook_client_token" translatable="false">642332becbe52776dc4f383e70ca68b5</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="don_have_a_account">Don\'t Have a Account</string>
+    <string name="password">Password</string>
+    <string name="language">Language</string>
+
+
+</resources>

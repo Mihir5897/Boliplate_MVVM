@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965769144107",
+    "project_id": "boliplate-mvvm",
+    "storage_bucket": "boliplate-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965769144107:android:7b21736e1e06f585f7076e",
+        "android_client_info": {
+          "package_name": "com.me.boliplate_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965769144107-efvnka9mqk87utdjd8hrfjkje5f6uavd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.me.boliplate_mvvm",
+            "certificate_hash": "a61c6e58fce931d44814f1724e06f03880378c5a"
+          }
+        },
+        {
+          "client_id": "965769144107-62jucjk7jve4vm9f2ga1m38mr6rvqpej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkgim-b9Ezw_QCZw7uqMeBh4aYkbbJcX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965769144107-62jucjk7jve4vm9f2ga1m38mr6rvqpej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
